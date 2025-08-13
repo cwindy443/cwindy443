@@ -1,4 +1,4 @@
 ## Hi there 👋
-## This is Doni Chen, a middle school student from China.
+## This is Doni Chen, a middle school student.
 ## I'm currently an OIer studing some "complex" algorithm. (not that complex though :D)
 ## This is my first repository for my profile and I'll try to get on this well later.
