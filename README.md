@@ -1,3 +1,5 @@
-## Hi there 👋
-## This is Doni Chen, a middle school student.
+### Hi there 👋
+
+I'm interested in programming. 
+I'm currently trying to collaborate on open-source project.
 
